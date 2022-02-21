@@ -4,7 +4,7 @@
     "url": "https://bobvanzeeland.com",
     "icon": "https://favicons.githubusercontent.com/bobvanzeeland.com",
     "slug": "bobvanzeeland-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,9 +12,11 @@
     "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 520,
-    "timeWeek": 545,
+    "timeWeek": 525,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
