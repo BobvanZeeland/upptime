@@ -4,19 +4,19 @@
     "url": "https://bobvanzeeland.com",
     "icon": "https://favicons.githubusercontent.com/bobvanzeeland.com",
     "slug": "bobvanzeeland-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 626,
-    "timeDay": 778,
-    "timeWeek": 628,
-    "timeMonth": 624,
+    "timeDay": 724,
+    "timeWeek": 626,
+    "timeMonth": 623,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-06-21": 35,
+      "2022-06-21": 46,
       "2022-02-21": 33
     }
   }
