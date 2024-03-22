@@ -4,17 +4,19 @@
     "url": "https://bobvanzeeland.com",
     "icon": "https://icons.duckduckgo.com/ip3/bobvanzeeland.com.ico",
     "slug": "bobvanzeeland-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 631,
-    "timeWeek": 726,
-    "timeMonth": 729,
-    "timeYear": 754,
-    "dailyMinutesDown": {}
+    "time": 785,
+    "timeDay": 1952,
+    "timeWeek": 1042,
+    "timeMonth": 813,
+    "timeYear": 761,
+    "dailyMinutesDown": {
+      "2024-03-22": 0
+    }
   }
 ]
